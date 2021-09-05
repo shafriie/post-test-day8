@@ -1,0 +1,28 @@
+{
+    "rowsTugas": [
+        {
+            "id": 1,
+            "tugas": "BNI Introduction",
+            "topic": "intro 01",
+            "link": "www.bnicorpu.co.id/test/01"
+        },
+        {
+            "id": 2,
+            "tugas": "Akuntansi",
+            "topic": "akuntansi final",
+            "link": "www.bnicorpu.co.id/test/83"
+        },
+        {
+            "id": 3,
+            "tugas": "General Banking",
+            "topic": "Level 1",
+            "link": "www.bnicorpu.co.id/test/41"
+        },
+        {
+            "id": 4,
+            "tugas": "Communication",
+            "topic": "Level 3",
+            "link": "www.bnicorpu.co.id/test/63"
+        }
+    ]
+}

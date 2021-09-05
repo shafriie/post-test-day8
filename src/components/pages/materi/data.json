@@ -1,0 +1,24 @@
+{
+    "rowsMateri": [
+        {
+            "id": 1,
+            "materi": "BNI Introduction",
+            "link": "https://www.bnicorpu.co.id/odp/materi/01"
+        },
+        {
+            "id": 2,
+            "materi": "Akuntansi",
+            "link": "https://www.bnicorpu.co.id/odp/materi/02"
+        },
+        {
+            "id": 3,
+            "materi": "General Banking",
+            "link": "https://www.bnicorpu.co.id/odp/materi/03"
+        },
+        {
+            "id": 4,
+            "materi": "Communication",
+            "link": "https://www.bnicorpu.co.id/odp/materi/04"
+        }
+    ]
+}

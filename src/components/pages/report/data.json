@@ -1,0 +1,32 @@
+{
+    "rowsReport": [
+        {
+            "id": 1,
+            "nama": "Hidayat Nurwahid",
+            "npp": "T045632",
+            "namaKelas": "Information Technology",
+            "tglAbsensi": "03/09/2021 07.30"
+        },
+        {
+            "id": 2,
+            "nama": "Agis Choerunissa",
+            "npp": "P043321",
+            "namaKelas": "Data Scientist",
+            "tglAbsensi": "13/12/2021 04.35"
+        },
+        {
+            "id": 3,
+            "nama": "Muhammad Yusuf Ghazali",
+            "npp": "P054327",
+            "namaKelas": "Web Development",
+            "tglAbsensi": "02/04/2021 09.20"
+        },
+        {
+            "id": 4,
+            "nama": "Ilham prayogo",
+            "npp": "P067433",
+            "namaKelas": "Mobile Applications",
+            "tglAbsensi": "06/05/2021 09.10"
+        }
+    ]
+}
