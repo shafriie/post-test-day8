@@ -1,24 +1,17 @@
 import React, { Component } from 'react';
 import './style.scss'
+import MolFooter from '../../molecules/CombineFooter'
 
-class index extends Component {
+class FooterClass extends Component {
     render() {
         return (
-            <footer class="fixed-bottom">
-                <p align="center">
-                    <i className="fa fa-facebook"></i>
-                    <i className="fa fa-twitter"></i>
-                    <i className="fa fa-instagram"></i>
-                    <i className="fa fa-youtube"></i>
-
-                    <br />
-                    <br />
-
-                    <font>Copyright@{new Date().getFullYear()} BNI Corporate University</font>
-                </p>
-            </footer>
+            <div style={{ marginTop: '200px' }}>
+                <footer className="footerBottom">
+                    <MolFooter />
+                </footer>
+            </div>
         );
     }
 }
 
-export default index;
+export default FooterClass;

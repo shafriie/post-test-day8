@@ -3,7 +3,7 @@ import { Navbar, Nav, NavDropdown } from 'react-bootstrap'
 import './header.scss'
 import { Link } from "react-router-dom";
 
-class index extends Component {
+class HeaderClass extends Component {
     render() {
         return (
             <>
@@ -15,6 +15,7 @@ class index extends Component {
                             <Nav.Link as={Link} to="/tugas-kuis">Tugas & Kuis</Nav.Link>
                             <Nav.Link as={Link} to="/materi-pembelajaran">Materi Pembelajaran</Nav.Link>
                             <Nav.Link as={Link} to="/report">Report</Nav.Link>
+                            <Nav.Link as={Link} to="/example-page">Example Axios</Nav.Link>
                         </Nav>
                         <Nav>
                             <NavDropdown title="Syafrie Syamsudin">
@@ -28,4 +29,4 @@ class index extends Component {
     }
 }
 
-export default index;
+export default HeaderClass;

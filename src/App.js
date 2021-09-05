@@ -4,6 +4,7 @@ import Peserta from './components/pages/peserta'
 import Materi from './components/pages/materi'
 import Report from './components/pages/report'
 import Tugas from './components/pages/tugas'
+import Example from './components/pages/example'
 
 import {
   BrowserRouter as Router,
@@ -27,6 +28,9 @@ function App() {
           </Route>
           <Route path="/report">
             <Template><Report /></Template>
+          </Route>
+          <Route path="/example-page">
+            <Template><Example /></Template>
           </Route>
         </Switch>
       </Router>
